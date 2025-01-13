@@ -1,4 +1,2 @@
 # Teena Cherian
-About me :
-## Software Test Engineer
-### Swindon, England
+Software Test Engineer, Swindon, England
